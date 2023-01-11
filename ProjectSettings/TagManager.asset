@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - OutSight
+  - chuot
+  - luoicau
+  - daycau
+  - vang
+  - vang3
+  - chuotkc1
+  - da3
+  - vang2
+  - vang1
+  - chuotkc2
+  - chuotkc3
+  - chuotthuong
+  - kc1
+  - kc2
+  - kc3
+  - chuotvang2
+  - qua
+  - congtien
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
