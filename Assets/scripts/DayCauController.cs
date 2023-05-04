@@ -6,13 +6,13 @@ public class DayCauController : MonoBehaviour
     public Transform luoicauTransform;
 
     int rotatexDir = 1;
-    float rotateSpeed = 1.8f;
+    float rotateSpeed = 0.5f;
     //bool is_input ;
     float Length;
 
     private void Awake()
     {
-        
+
     }
 
     private void Start()

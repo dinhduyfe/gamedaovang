@@ -486,9 +486,9 @@ public class Gamecontroller : MonoBehaviour
     }
     public void Replay()
     {
-        //string currentScene = SceneManager.GetActiveScene().name;
+        string currentScene = SceneManager.GetActiveScene().name;
         //Debug.Log(currentScene);
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(currentScene);
     }
 
     public void NextLevel()
@@ -499,7 +499,7 @@ public class Gamecontroller : MonoBehaviour
     }
     public void QuitGame()
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(11);
     }
     public void Reload()
     {
